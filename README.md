@@ -25,7 +25,7 @@ In biology, the **central dogma** describes how genetic information stored in DN
 1. **Transcription** – DNA is copied into RNA  
 2. **Translation** – RNA is read in sets of three bases (codons) to build proteins
 
-This flow of information from DNA to RNA to protein is fundamental to life. :contentReference[oaicite:2]{index=2}
+This flow of information from DNA to RNA to protein is fundamental to life. 
 
 ---
 
