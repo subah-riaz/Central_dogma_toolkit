@@ -8,11 +8,11 @@
 
 This toolkit allows you to:
 
-✔ Identify whether a sequence is DNA or RNA  
-✔ Transcribe DNA into RNA  
-✔ Split sequences into **codons** (three-base units)  
-✔ Find **Open Reading Frames (ORFs)**  
-✔ Translate sequences into protein strings based on codons
+1. Identify whether a sequence is DNA or RNA  
+2. Transcribe DNA into RNA  
+3. Split sequences into **codons** (three-base units)  
+4. Find **Open Reading Frames (ORFs)**  
+5. Translate sequences into protein strings based on codons
 
 This helps you simulate the fundamental biological processes of **transcription and translation**, the two key steps in gene expression. 
 
